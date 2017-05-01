@@ -2,9 +2,7 @@
   "name": "danthedev_new_portfolio",
   "version": "1.0.0",
   "description": "Dan Peters' Portfolio Site",
-  "main": "index.js",
   "author": "Dan Peters",
-  "license": "MIT",
   "scripts": {
     "build": "webpack --display-error-details",
     "watch": "webpack-dev-server --inline --hot",
